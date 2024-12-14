@@ -62,6 +62,21 @@ The model achieved the following performance metrics on the test set:
 |-------|-----------|--------|----------|---------|
 | Cats  | 0.80      | 0.89   | 0.84     | 1000    |
 | Dogs  | 0.88      | 0.78   | 0.83     | 1000    |
+## Visualizations
+
+### 1. Accuracy
+![Accuracy](Images/accuracy.jpg)
+
+### 1. Confusion Matrix
+![Confusion Matrix](Images/confusion_matix.jpg)
+
+### 2. Training Accuracy vs Validation Accuracy
+![Accuracy Plot](Images/graph.jpg)
+
+### 4. Sample Predictions
+![Sample Predictions](Images/prediction.jpg)
+
+*Above: Visualizations including the accuracy, confusion matrix, accuracy/loss plots, and sample model predictions.*
 
 ## Key Features
 - **Batch Normalization**: Enhanced training stability and reduced sensitivity to initialization.
