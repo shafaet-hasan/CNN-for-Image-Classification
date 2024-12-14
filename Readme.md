@@ -46,7 +46,7 @@ Total Trainable Parameters: **915,881**
 ## Results
 The model achieved the following performance metrics on the test set:
 
-- **Accuracy**: 84%
+- **Accuracy**: 97.08% (with 20 epochs)
 - **Precision**: 0.84
 - **Recall**: 0.8365
 - **F1-Score**: 0.8360
