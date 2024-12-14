@@ -9,7 +9,7 @@ The dataset used for this project consists of **2000 labeled images** split even
 - **Cats:** 1000 images
 - **Dogs:** 1000 images
 
-All images were resized to **64x64 pixels** for uniformity. The data was divided into **training** and **validation** subsets. You can download the dataset from this [link](dataset-link-here).
+All images were resized to **64x64 pixels** for uniformity. The data was divided into **training** and **validation** subsets. You can download the dataset from this [link](https://drive.google.com/drive/folders/1iDuB2VXfgXM352kK8GWH5PGSHIEmfP9U?usp=drive_link).
 
 ## Model Architecture
 The CNN architecture comprises the following layers:
@@ -74,6 +74,6 @@ The model achieved the following performance metrics on the test set:
 - Deploy the model as a web application for real-world use cases.
 
 ## Medium Post
-Read the detailed methodology and insights on my Medium post: [Medium post link here]
+Read the detailed methodology and insights on my Medium post: [https://medium.com/@anmradwan88/cnn-for-image-classification-dog-vs-cat-3e11dbb4a85d]
 
 ---
