@@ -67,10 +67,10 @@ The model achieved the following performance metrics on the test set:
 ### 1. Accuracy
 ![Accuracy](Images/accuracy.jpg)
 
-### 1. Confusion Matrix
+### 2. Confusion Matrix
 ![Confusion Matrix](Images/confusion_matix.jpg)
 
-### 2. Training Accuracy vs Validation Accuracy
+### 3. Training Accuracy vs Validation Accuracy
 ![Accuracy Plot](Images/graph.jpg)
 
 ### 4. Sample Predictions
